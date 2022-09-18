@@ -16,7 +16,7 @@ Projeto "Game hub", desenvolvido na trilha Explorer da 9º edição da Next Leve
 
 ## 💙 Contato
 
-
-+55 81993018188
+📧 tayrone.2013@hotmail.com
+[+55 81993018188](http://wa.me/5581993018188)
 
 
