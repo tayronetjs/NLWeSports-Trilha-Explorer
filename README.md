@@ -1,6 +1,6 @@
 # NLWeSports
 
-![Preview](https://user-images.githubusercontent.com/107224774/190917922-438682f9-7919-40e8-bff6-81e3eb15d700.png)
+![Preview](https://user-images.githubusercontent.com/107224774/190918317-2724b02c-faa7-4707-9f95-abe354689271.png)
 
 >Trilha-Explorer
 
